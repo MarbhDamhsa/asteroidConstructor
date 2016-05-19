@@ -20,7 +20,6 @@ int main()
 	asteroid.setSize(5);
 	asteroid.setSpeed(-4, 20);
 	cout << endl;
-	asteroid.~Asteroid();
 	
 	cin.get();
 	return 0;
